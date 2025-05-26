@@ -1,0 +1,87 @@
+/* Tamna tema za sajt Milene Dukić */
+
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Navigacija */
+.navbar {
+    background-color: #1f1f1f;
+}
+
+.navbar .nav-link {
+    color: #e0e0e0;
+}
+
+.navbar .nav-link:hover {
+    color: #0d6efd;
+}
+
+.navbar .dropdown-menu {
+    background-color: #1f1f1f;
+    border: none;
+}
+
+.navbar .dropdown-item {
+    color: #e0e0e0;
+}
+
+.navbar .dropdown-item:hover {
+    background-color: #0d6efd;
+    color: #fff;
+}
+
+/* Hero sekcija */
+header {
+    background-color: #1a1a1a;
+    color: #f8f9fa;
+}
+
+/* Sekcije */
+section {
+    background-color: #1e1e1e;
+    color: #e2e6ea;
+}
+
+/* Footer */
+footer {
+    background-color: #111111;
+    color: #adb5bd;
+}
+
+/* Dugmad */
+.btn-primary {
+    background-color: #0d6efd;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0b5ed7;
+}
+
+.btn-outline-primary {
+    border-color: #0d6efd;
+    color: #0d6efd;
+}
+
+.btn-outline-primary:hover {
+    background-color: #0d6efd;
+    color: #fff;
+}
+
+/* Slike u sekcijama */
+.img-fluid {
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+/* Linkovi u tekstu */
+a {
+    color: #0d6efd;
+}
+
+a:hover {
+    color: #66b2ff;
+}
